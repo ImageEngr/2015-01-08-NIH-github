@@ -13,7 +13,7 @@ output: html_document
 ##Intro
 this is *really* **really** cool
 
-'print("hello")'
+'print("bar")'
 
 
 ##Methods
