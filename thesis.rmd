@@ -36,5 +36,5 @@ print(results)
 '''
 
 '''{r}
-print("hello")
+print("foo")
 '''
