@@ -10,8 +10,10 @@ output: html_document
 
 #Thesis
 
-##INtro
+##Intro
 this is *really* **really** cool
+
+'print("hello")'
 
 
 ##Methods
@@ -24,5 +26,15 @@ this is *really* **really** cool
 2. do 2
 3. do 3
 
-## Discussion
+##Discussion
 things
+
+#Results
+'''{r}
+results <-c(1, 2, 3, 4, 5)
+print(results)
+'''
+
+'''{r}
+print("hello")
+'''
