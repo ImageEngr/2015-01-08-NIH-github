@@ -11,7 +11,7 @@ output: html_document
 #Thesis
 
 ##INtro
-stuff
+this is *really* **really** cool
 
 
 ##Methods
