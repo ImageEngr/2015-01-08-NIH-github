@@ -1,2 +1,16 @@
+<<<<<<< HEAD
 ~*
 *.html
+=======
+# History files
+.Rhistory
+
+# Example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+
+# RStudio files
+.Rproj.user/
+>>>>>>> 99ece8309bfe942b5b6ec33e2fcaf156b65d7ab7
